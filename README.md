@@ -53,15 +53,6 @@ This is a **supervised learning** problem, specifically a **multiclass classific
    pip install -r requirements.txt
    ```
 
-3. Train the model:
-   ```bash
-   python src/train_model.py
-   ```
-
-4. Predict a dog's breed:
-   ```bash
-   python src/predict_breed.py --image path_to_dog_image.jpg
-   ```
 
 ## 📊 Dataset
 
@@ -80,7 +71,7 @@ dataset/
 
 ## 👨‍💼 Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/EzatHotak)
 
 ## 📄 License
 
