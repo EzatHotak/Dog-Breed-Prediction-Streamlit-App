@@ -69,9 +69,6 @@ dataset/
 ...
 ```
 
-## 👨‍💼 Contributors
-
-- [Your Name](https://github.com/EzatHotak)
 
 ## 📄 License
 
